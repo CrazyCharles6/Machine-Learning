@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T04:35:31.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="UWZRrShp25kVIP0jP4ZL" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T08:34:37.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="SkKVmQCh9DJbZlYUK2NR" version="13.7.3" type="github">
   <diagram id="Qrbj5Tkm-uTYDOuXCL7I" name="Page-1">
     <mxGraphModel dx="1546" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -219,6 +219,28 @@
         </mxCell>
         <mxCell id="9aGrxxRxmxAyomSqXJZ4-97" value="Ground Truth&lt;br style=&quot;font-size: 2px;&quot;&gt;Mel Spectrogram" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=2;" vertex="1" parent="1">
           <mxGeometry x="1704.5" y="396" width="107" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="9aGrxxRxmxAyomSqXJZ4-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.36;entryY=1.067;entryDx=0;entryDy=0;fontSize=2;entryPerimeter=0;" edge="1" parent="1" source="9aGrxxRxmxAyomSqXJZ4-98" target="9aGrxxRxmxAyomSqXJZ4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9aGrxxRxmxAyomSqXJZ4-98" value="Speaker &lt;br&gt;Identity" style="rounded=0;whiteSpace=wrap;html=1;fontSize=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-355" y="339" width="93" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="9aGrxxRxmxAyomSqXJZ4-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.36;entryY=1.067;entryDx=0;entryDy=0;fontSize=2;entryPerimeter=0;" edge="1" parent="1" source="9aGrxxRxmxAyomSqXJZ4-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="683.2" y="272.0200000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9aGrxxRxmxAyomSqXJZ4-105" value="Speaker &lt;br&gt;Identity" style="rounded=0;whiteSpace=wrap;html=1;fontSize=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="495" y="311" width="93" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="9aGrxxRxmxAyomSqXJZ4-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.36;entryY=1.067;entryDx=0;entryDy=0;fontSize=2;entryPerimeter=0;" edge="1" parent="1" source="9aGrxxRxmxAyomSqXJZ4-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1329.1999999999998" y="283.0200000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9aGrxxRxmxAyomSqXJZ4-107" value="Speaker &lt;br&gt;Identity" style="rounded=0;whiteSpace=wrap;html=1;fontSize=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1141" y="322" width="93" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
